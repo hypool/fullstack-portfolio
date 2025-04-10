@@ -1,4 +1,15 @@
-# Full Stack Engineer Portfolio Projects
+# 🌐 Fullstack Engineer Portfolio
+
+A collection of fullstack web applications built using modern TypeScript frameworks. This repo demonstrates scalable frontend/backend architectures, API design, CI/CD pipelines, and production-ready deployments.
+
+## 💡 Highlights
+- Next.js frontend with TailwindCSS
+- Express/Fastify backend APIs (TypeScript)
+- Dockerized development & deployment
+- GitHub Actions CI/CD
+- Cloud hosting: Vercel, Railway, or AWS
+
+## Project List
 
 ## 1. Offline-First POS System for Informal Traders
 
